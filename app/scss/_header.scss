@@ -1,0 +1,70 @@
+.slider{
+  padding: 50% 0;
+    text-align: center;
+    text-transform: uppercase;
+    font: 6.5rem 'Open Sans';
+}
+
+
+
+.slider .slick-arrow{
+    
+    color: transparent;
+    border: none;
+    text-indent: -9999px;
+    
+   
+}
+/*.header{
+    box-shadow: 0 0 10px 0 #000;
+    padding: 15px 0;
+    display: flex;
+    justify-content: space-between
+}
+.header .logo{
+    color: #000;
+    font: 32px/32px helvetica;
+}
+.header nav {
+    position: relative
+}
+.header .menuButton{
+    position: relative;
+    border-top: 4px solid #000;
+    border-bottom: 4px solid #000;
+    display: block;
+    height: 32px;
+    width: 32px;
+}
+
+.header .menuButton::before{
+    content: '';
+    height: 4px;
+    width: 32px;
+    position: absolute;
+    top: 14px;
+    left: 0;
+    background: #000;
+}
+
+.header ul{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    background: #fff;
+    z-index: 3;
+    width: calc(100% - 15vw - 32px);
+    left:calc((-1*(100% - 15vw - 32px));
+    box-shadow: 0 0 1px 0 #000;
+    font:24px helvetica;
+    padding: 15px;
+    transition: all 1s;
+    
+        
+}
+.header a{
+    color: #000;
+}
+.header ul.active{
+    left: 0;
+}*/
